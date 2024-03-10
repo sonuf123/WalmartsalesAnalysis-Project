@@ -1,5 +1,6 @@
 # WalmartsalesAnalysis-Project
-![image](https://github.com/sonuf123/WalmartsalesAnalysis-Project/assets/24766030/13ea4507-8866-49b3-8bbf-ae61dada1575)
+![image](https://github.com/sonuf123/WalmartsalesAnalysis-Project/assets/24766030/cae9ad07-916f-45a0-b57b-d1e6233aa70f)
+
 
 ## About
 
